@@ -1,0 +1,64 @@
+.profissional {
+    margin-top: 30px;
+}
+
+h2 {
+    background-color: white;
+    width: 880px;
+    padding: 10px;
+    text-align: center;
+    border-radius: 5px;
+    color: #103d9c;
+    margin: auto;
+   
+}
+
+.nomeCampo {
+    font-weight: bolder;
+    margin-left: 5px;
+    margin-right: 10px;
+    
+}
+
+.tituloCampo {
+    margin: 30px 0;
+}
+
+.formGestante {
+    width: 880px;
+    display: flex;
+    align-items: center;
+    padding: 10px 0 10px 12px;
+    outline: 2px solid #d4d4d4;
+    border-radius: 5px;
+    margin: auto;
+}
+
+.inputProfissional {
+    color: #000000;
+    border-radius: 5px;
+    margin-right: 8px;
+    height: 1.8em;
+}
+
+.gestante {
+    margin-top: 30px;
+}
+
+.sexo {
+    margin-top: 30px;
+    
+}
+
+.radioSexo {
+    width: 200px;
+    display: flex;
+    padding: 10px 0 10px 12px;
+    outline: 2px solid #d4d4d4;
+    border-radius: 5px;
+    margin: auto;
+}
+
+.labelSexo {
+    margin: 0 10px ;
+}
